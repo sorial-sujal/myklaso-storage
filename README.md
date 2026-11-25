@@ -1,6 +1,6 @@
 # MyKlaso Storage
 
-This repository is used as the private implementation backend for MyKlaso's file storage integration through GitHub Releases.
+This repository is used as the resource storage backend for MyKlaso's file storage integration through GitHub Releases.
 
 - Resource files are stored as release assets.
 - Application metadata is stored in release descriptions.
